@@ -1,3 +1,3 @@
-module github.org/gosimple/hashdir
+module github.com/gosimple/hashdir
 
 go 1.14
