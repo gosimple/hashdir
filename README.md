@@ -1,5 +1,8 @@
 # hashdir
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/gosimple/hashdir.svg)](https://pkg.go.dev/github.com/gosimple/hashdir)
+[![Tests](https://github.com/gosimple/hashdir/actions/workflows/tests.yml/badge.svg)](https://github.com/gosimple/hashdir/actions/workflows/tests.yml)
+
 Generate hash of all files and they paths for specified directory.
 
 ```go
